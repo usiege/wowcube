@@ -1,31 +1,24 @@
-# WINDA
+# WowCube
 
-Do not add entities unless necessary.
+WoWer们的游戏空间，魔兽系列游戏社区。
 
 <!-- TOC -->
 
-- [WINDA](#winda)
-    - [Introduce](#introduce)
-    - [Document](#document)
-
+- [WowCube](#wowcube)
+    - [近期更新](#近期更新)
+    - [点我资料](#感谢支持)
+    
 <!-- /TOC -->
 
-## Introduce
+## 近期更新
 
-Winda is a minimalist World of Warcraft integration plugin, eliminating complex plugin settings in favor of providing players with a convenient interface for configuration. 
-
-Remember: simplicity is the key when it comes to using this plugin!
+> winda ui更新实录，全程解析集成插件制作过程每个细节
 
 
 
 
 
-## Document
-
-This section describes the usage of each component of the plugin. The documentation will include updates on the plugin. The documentation should describe the details of the plugin in sufficient detail so that users can clearly understand each aspect.
-
-
-## Donate
+## 感谢支持
 
 [爱发电](https://afdian.net/@windwhispered) | [Patreon](https://www.patreon.com/hearwinds) | [知识星球](https://wx.zsxq.com/dweb2/index/group/28855118214111)
 

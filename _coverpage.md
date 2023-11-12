@@ -1,12 +1,12 @@
 <!-- _coverpage.md -->
 
-![logo](_media/winda.png)
+![logo](_media/wowcube.png)
 
-# 温达 <small>ui</small>
+# WoWer<small>的游戏空间</small>
 
-> WINDA UI创建实录
+> 最近更新：winda ui 创建实录
 
-- 更多内容加入“WC游戏社区”
+- 全网同名，更多内容加入“WC游戏社区”获取
 
 [『GitHub』](https://github.com/usiege/winda)
 [『B站』](https://space.bilibili.com/38532242)

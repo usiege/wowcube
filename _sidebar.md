@@ -1,11 +1,14 @@
-<!-- docs/_sidebar.md-->
+<!-- WowCube/_sidebar.md-->
 
 
-* [Home](/)
+* [Home](/ "WowCube")
 
 
-* [winda](./winda/README.md)
+* [winda](winda/README.md "winda")
 
 
-* Problem
-    * [FAQ](user/faq.md)
+* Addons
+    * [WA](addons/wa.md "WA")
+
+
+* [FAQ](user/faq.md "FAQ")

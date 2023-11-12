@@ -18,7 +18,7 @@ WoWer们的游戏空间，魔兽系列游戏社区。
 
 
 
-## 感谢支持
+## 感谢支持 <!-- {docsify-ignore} -->
 
 [爱发电](https://afdian.net/@windwhispered) | [Patreon](https://www.patreon.com/hearwinds) | [知识星球](https://wx.zsxq.com/dweb2/index/group/28855118214111)
 

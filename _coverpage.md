@@ -2,7 +2,7 @@
 
 ![logo](_media/wowcube.png)
 
-# WoWer<small>的游戏空间</small>
+# wower<small>的游戏空间</small>
 
 > 最近更新：winda ui 创建实录
 

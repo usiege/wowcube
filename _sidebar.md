@@ -13,6 +13,7 @@
 
 * Addons
     * [WA](addons/wa.md "WA")
+    * [TOC](tingfeng/Addons/docs/TOC-format.md "TOC")
 
 
 * [FAQ](user/faq.md "FAQ")

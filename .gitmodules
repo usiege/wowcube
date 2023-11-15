@@ -1,3 +1,6 @@
 [submodule "winda"]
 	path = winda
 	url = https://github.com/usiege/winda.git
+[submodule "tingfeng"]
+	path = tingfeng
+	url = https://github.com/usiege/TingFeng

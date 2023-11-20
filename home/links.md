@@ -3,8 +3,8 @@
 
 ## winda ui
 
-- [【温达】做自己的UI插件（1）-"Hello,winda!"](https://www.bilibili.com/video/BV1Mz4y1A7wr/?vd_source=3086169dea0bf79eb0bb16cd208b2303)
-
+- [【温达】做自己的UI插件（1）-"Hello,winda!"](https://www.bilibili.com/video/BV1Mz4y1A7wr)
+- [【温达】做自己的UI插件（2）-我的宏命令/wd](https://www.bilibili.com/video/BV15u4y1j7Sa)
 
 
 ## 乌龟服

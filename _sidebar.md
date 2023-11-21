@@ -11,6 +11,8 @@
 
 * [视频更新](home/links.md "视频更新")
 
+* [图文教程](home/article.md "图文更新")
+
 * Addons
     * [WA](addons/wa.md "WA")
     * [TOC](tingfeng/Addons/docs/TOC-format.md "TOC")

@@ -5,6 +5,7 @@
 ## winda
 
 - [【温达】插件制作-"Hello,winda!"](https://mp.weixin.qq.com/s?__biz=MzIyMDQ4NDIzNw==&mid=2247484789&idx=1&sn=77adfcebfe5919af4b4ff5132bd9fa23&chksm=97ca0297a0bd8b81551736754abc9d335e2eedfacdf28e43074e8b6f7644c9114f52916d709b#rd)
+- [【温达】插件制作-做自己的宏](https://mp.weixin.qq.com/s?__biz=MzIyMDQ4NDIzNw==&mid=2247484823&idx=1&sn=233ae83aab733b8a4cf9eacc4e5be757&chksm=97ca0275a0bd8b6371513ff90a08884e9ffd6768c250297453102edb2eed13b61d9e4f3c7ba7#rd)
 
 
 ## 进阶

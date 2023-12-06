@@ -5,6 +5,8 @@
 
 - [【温达】做自己的UI插件（1）-"Hello,winda!"](https://www.bilibili.com/video/BV1Mz4y1A7wr)
 - [【温达】做自己的UI插件（2）-我的宏命令/wd](https://www.bilibili.com/video/BV15u4y1j7Sa)
+- [【温达】做自己的UI插件（3）-工欲善其事](https://www.bilibili.com/video/BV1RN411L7Vt)
+- [【温达】做自己的UI插件（4）-迁移到Plus](https://www.bilibili.com/video/BV1MM411d7fc/)
 
 
 ## 乌龟服

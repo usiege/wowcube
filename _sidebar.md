@@ -9,13 +9,16 @@
     * [插件问题](winda/docs/user/faq.md "插件问题")
     * [用户反馈](winda/docs/user/ask.md "用户反馈")
 
-* [视频更新](home/links.md "视频更新")
-
-* [图文教程](home/article.md "图文更新")
-
 * Addons
     * [WA](addons/wa.md "WA")
     * [TOC](tingfeng/Addons/docs/TOC-format.md "TOC")
 
-
 * [FAQ](user/faq.md "FAQ")
+
+* 插件包
+	* [FF14UI](suites/ff14.md "FF14 UI")
+
+* [视频更新](home/links.md "视频更新")
+
+* [图文教程](home/article.md "图文更新")
+

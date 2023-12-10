@@ -6,4 +6,4 @@
 	url = https://github.com/usiege/TingFeng
 [submodule "publisher"]
 	path = publisher
-	url = https://github.com/usiege/publisher
+	url = https://github.com/usiege/publisher.git

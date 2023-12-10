@@ -4,3 +4,6 @@
 [submodule "tingfeng"]
 	path = tingfeng
 	url = https://github.com/usiege/TingFeng
+[submodule "publisher"]
+	path = publisher
+	url = https://github.com/usiege/publisher

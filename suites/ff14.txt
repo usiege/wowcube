@@ -1,3 +1,18 @@
+视频简介
+
+FFXIV UI社区：
+https://kook.top/EGosAW
+
+FFXIV UI插件包简介：
+https://wowcube.site/#/suites/ff14
+
+FFXIV UI更新日志：
+https://wowcube.site/#/suites/ff14-update
+
+下载及安装：
+见下期视频，FFXIV UI下载及安装方法；
+
+
 ## 更新说明
 
 本次更新为正式发布版本，版本号v1.0.0，后续将持续更新；

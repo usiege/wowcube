@@ -11,6 +11,8 @@
 
 现在它来了！
 
+![QQ截图20231214222110.png](https://s2.loli.net/2023/12/14/OMo9G4bxwnlPFf6.png)
+
 史上第一个互联网软件众创项目——“温达共创”它来了！
 
 这个项目使用互联网优质的共同协作工具，
@@ -28,24 +30,33 @@
 
 ## 需求你来定
 
-
 飞书链接：https://kxxblqyumrm.feishu.cn/sheets/BeMjsw2JRhaLVIty2sCcwuVWnJf   密码：6Z75#899
+
+![QQ截图20231214224035.png](https://s2.loli.net/2023/12/14/x5tkowPV6DyeB3M.png)
 
 
 ## 设计一起做
 
 https://www.figma.com/file/mDJJYea7WDsNhEVgAmkYk5/%E6%B8%A9%E8%BE%BE%E5%85%B1%E5%88%9B?type=design&node-id=0%3A1&mode=design&t=oEQqV3BnnAmFvNkq-1
 
+![QQ截图20231214224119.png](https://s2.loli.net/2023/12/14/MyhHsNCRwkjELcd.png)
+
 
 ## 代码我来写
 
 https://github.com/usiege/winda
 
+![QQ截图20231214224829.png](https://s2.loli.net/2023/12/14/va5z8Snh4CeAHR9.png)
+
 ## 方案大家定
 
 飞书链接：https://kxxblqyumrm.feishu.cn/docx/VWOTd6GaooSa1vxNyFpcpnw6nbg   密码：1k65956#
+
+![QQ截图20231214224147.png](https://s2.loli.net/2023/12/14/JwRloAMEjeDCixV.png)
 
 ## BUG你来找
 
 
 飞书链接：https://kxxblqyumrm.feishu.cn/sheets/I9NLsCaGVhHUL4tl6OBcCA61nJg   密码：d9732@31
+
+![QQ截图20231214224219.png](https://s2.loli.net/2023/12/14/sRA1LcKF3u72mnx.png)

@@ -169,7 +169,7 @@
 
 ##  <p align="center">代码我来写</p>
 
-<center> 代码库：[https://github.com/usiege/winda](https://github.com/usiege/winda)
+<center> 代码库:  <a href=https://github.com/usiege/winda>https://github.com/usiege/winda</a>
 
 ![QQ截图20231214224829.png](https://s2.loli.net/2023/12/14/va5z8Snh4CeAHR9.png)
 

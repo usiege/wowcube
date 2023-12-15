@@ -1,4 +1,4 @@
-# <p align="center">温达共创</p>
+# <center>温达共创</center>
 
 <center>想不想参与一次互联网软件项目，</center>
 <center>完整体验项目从提出到交付的整个过程？</center>

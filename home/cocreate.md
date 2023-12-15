@@ -165,7 +165,7 @@
 <center>让我们充分体会工作中DL带来的压力</center><br/>
 
 <center>当然下期仍可以提上个主题的内容</center><br/>
-<center>只是需求文档要落实到下期里</center><br/>
+<center>只是需求文档要落实到下期里</center>
 
 ##  <p align="center">代码我来写</p>
 
@@ -230,9 +230,9 @@
 ##  <center>以上
 
 <center> 社区：<a href=" https://kook.top/PYEQ2u"> https://kook.top/PYEQ2u</a>
+<br/>
 
 <center>以上 完结</center><br/>
-
 <center>最后我想说的是</center><br/>
 
 <center>在温达共创里</center><br/>

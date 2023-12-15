@@ -1,13 +1,17 @@
 # <center>温达共创</center>
 
 <center>想不想参与一次互联网软件项目，</center>
+
 <center>完整体验项目从提出到交付的整个过程？</center>
-<center></center>
+
 <center>想不想做为一个非软件从业人员，</center>
+
 <center>切身体会下软件制作过程的不易？</center>
-<center></center>
+
 <center>想不想加入到软件项目的每个环节，</center>
+
 <center>体验互联网软件大厂螺丝钉的工作内容？</center>
+
 <center>为了让不会写代码的人也能参与到winda制作中
 
 ![QQ截图20231214231424.png](https://s2.loli.net/2023/12/14/blH3tfEFcgjIRKT.png)
@@ -214,6 +218,8 @@ https://www.figma.com/file/mDJJYea7WDsNhEVgAmkYk5/%E6%B8%A9%E8%BE%BE%E5%85%B1%E5
 <center>以保证该项目可以源源不断的为大家提供能力</center>
 
 ##  <center>以上</center>
+
+> 社区： https://kook.top/PYEQ2u
 
 <center>以上 完结</center>
 

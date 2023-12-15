@@ -1,5 +1,7 @@
 # <center>温达共创
 
+<br/>
+
 <center>想不想参与一次互联网软件项目，</center>
 <br/>
 <center>完整体验项目从提出到交付的整个过程？</center>
@@ -64,12 +66,12 @@
 <center>共同开发新插件，掌握新技能</center><br/>
 <center>最后在游戏里</center><br/>
 <center>使用自己开发的产品</center><br/>
-<center>以此获得更高的成就感</center><br/>
+<center>以此获得更高的成就感</center>
 
 
 ##  <p align="center">需求你来出
 
-<center> 飞书链接：[温达共创——需求表](https://kxxblqyumrm.feishu.cn/sheets/BeMjsw2JRhaLVIty2sCcwuVWnJf) 密码：6Z75#899
+<center> 飞书链接：<a href=https://kxxblqyumrm.feishu.cn/sheets/BeMjsw2JRhaLVIty2sCcwuVWnJf>https://kxxblqyumrm.feishu.cn/sheets/BeMjsw2JRhaLVIty2sCcwuVWnJf</a> 密码：6Z75#899
 
 ![QQ截图20231214224035.png](https://s2.loli.net/2023/12/14/x5tkowPV6DyeB3M.png)
 
@@ -110,11 +112,11 @@
 <center>因为在软件需求阶段</center><br/>
 <center>越是明确的需求</center><br/>
 <center>越是能让编程人员更好的理解</center><br/>
-<center>从而更加有效的进行编码</center><br/>
+<center>从而更加有效的进行编码</center>
 
 ##  <p align="center">设计一起做
 
-<center> [温达共创figma云设计空间](https://www.figma.com/file/mDJJYea7WDsNhEVgAmkYk5/%E6%B8%A9%E8%BE%BE%E5%85%B1%E5%88%9B?type=design&node-id=0%3A1&mode=design&t=oEQqV3BnnAmFvNkq-1)
+<center> 温达共创figma云设计空间：<br/> <a href=https://www.figma.com/file/mDJJYea7WDsNhEVgAmkYk5/%E6%B8%A9%E8%BE%BE%E5%85%B1%E5%88%9B?type=design&node-id=0%3A1&mode=design&t=oEQqV3BnnAmFvNkq-1>https://www.figma.com/file/mDJJYea7WDsNhEVgAmkYk5/%E6%B8%A9%E8%BE%BE%E5%85%B1%E5%88%9B?type=design&node-id=0%3A1&mode=design&t=oEQqV3BnnAmFvNkq-1</a>
 
 ![QQ截图20231214224119.png](https://s2.loli.net/2023/12/14/MyhHsNCRwkjELcd.png)
 
@@ -138,11 +140,11 @@
 <center>我就敢把winda旧衣服脱下</center><br/>
 <center>换上新衣服</center><br/>
 <center></center>
-<center>专业的事情我们交给专业的人来做</center><br/>
+<center>专业的事情我们交给专业的人来做</center>
 
 ##  <p align="center">方案大家定
 
-<center> 飞书链接：[温达共创——方案确定](https://kxxblqyumrm.feishu.cn/docx/VWOTd6GaooSa1vxNyFpcpnw6nbg)  密码：1k65956#
+<center> 飞书链接：<a href=https://kxxblqyumrm.feishu.cn/docx/VWOTd6GaooSa1vxNyFpcpnw6nbg>https://kxxblqyumrm.feishu.cn/docx/VWOTd6GaooSa1vxNyFpcpnw6nbg</a>  密码：1k65956#
 
 ![QQ截图20231214224147.png](https://s2.loli.net/2023/12/14/JwRloAMEjeDCixV.png)
 
@@ -193,11 +195,11 @@
 <center>如果功能完善</center><br/>
 <center>它将会成为winda的一部分</center><br/>
 
-<center>我们会非常感谢你为开源项目提供的能力</center><br/>
+<center>我们会非常感谢你为开源项目提供的能力</center>
 
 ##  <p align="center">BUG你来提
 
-<center> 飞书链接：[温达共创——BUG提交](https://kxxblqyumrm.feishu.cn/sheets/I9NLsCaGVhHUL4tl6OBcCA61nJg)   密码：d9732@31
+<center> 飞书链接：<a href=https://kxxblqyumrm.feishu.cn/sheets/I9NLsCaGVhHUL4tl6OBcCA61nJg>https://kxxblqyumrm.feishu.cn/sheets/I9NLsCaGVhHUL4tl6OBcCA61nJg</a>   密码：d9732@31
 
 ![QQ截图20231214224219.png](https://s2.loli.net/2023/12/14/sRA1LcKF3u72mnx.png)
 
@@ -213,7 +215,7 @@
 <center>直接同开发者展开交流与讨论</center><br/>
 
 <center>记住，在这里</center><br/>
-<center>winda的未来由你们决定！</center><br/>
+<center>winda的未来由你们决定！</center>
 
 ##  <p align="center">声明
 
@@ -223,11 +225,11 @@
 <center>届时我会找专业人士设计一个分成方案</center><br/>
 <center>以此来让大家都可以在共创项目中获得收入</center><br/>
 
-<center>以保证该项目可以源源不断的为大家提供能力</center><br/>
+<center>以保证该项目可以源源不断的为大家提供能力</center>
 
 ##  <center>以上
 
-<center> 社区：[ https://kook.top/PYEQ2u]( https://kook.top/PYEQ2u)
+<center> 社区：<a href=" https://kook.top/PYEQ2u"> https://kook.top/PYEQ2u</a>
 
 <center>以上 完结</center><br/>
 

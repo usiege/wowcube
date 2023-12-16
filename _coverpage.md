@@ -8,7 +8,7 @@
 
 - 全网同名，更多内容加入“WC游戏社区”获取
 
-[『GitHub』](https://github.com/usiege/winda)
+[『GitHub』](https://github.com/usiege)
 [『B站』](https://space.bilibili.com/38532242)
 [『知乎』](https://www.zhihu.com/people/uwuneng)
 [『抖音』](https://www.douyin.com/user/MS4wLjABAAAAWZZwAj3K-Moaee9AAFuYqi6CRWfC29At1CHheP3ubYgxh3ceYT88_oFgwaTPW9su)

@@ -1,7 +1,7 @@
 <!-- WowCube/_sidebar.md-->
 
 
-* [Home](/ "WowCube")
+* [Home](README.md "WowCube")
 
 
 * [winda](winda/README-ZH.md "winda")

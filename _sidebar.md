@@ -4,13 +4,13 @@
 * [Home](/ "WowCube")
 
 
-* [winda](winda/README.md "winda")
+* [winda](winda/README-ZH.md "winda")
     * [更新日志](winda/docs/UPDATE.md "更新日志")
     * [插件问题](winda/docs/user/faq.md "插件问题")
     * [用户反馈](winda/docs/user/ask.md "用户反馈")
 
 * [温达共创](home/cocreate.md "温达共创")
-    
+  
 * Addons
     * [WA](addons/wa.md "WA")
     * [TOC](tingfeng/Addons/docs/TOC-format.md "TOC")

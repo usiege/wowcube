@@ -7,6 +7,7 @@
 1. 更新了`Questie`任务插件；
 2. 删除与`UnitGetTotalAbsorbs`相关的WA，优化报错；
 3. 修复`BugSack`插件报错声音总是提醒的问题；
+4. 删除FFParty Healer WA（影响队伍显示）
 
 
 ## v1.0.1

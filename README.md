@@ -1,4 +1,6 @@
-![WowCube3.png](https://s2.loli.net/2023/12/16/kjuRo7EYVrAshZ8.png)
+<center>
+    <img src="https://s2.loli.net/2023/12/16/kjuRo7EYVrAshZ8.png"/>
+</center>
 
 <center> WoWer们的游戏空间，魔兽系列游戏社区。
 

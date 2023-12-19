@@ -18,7 +18,7 @@
 
 
 * [插件包](suites/README.md "插件包合集")
-	* [FF14UI](suites/ff14.md "FF14 UI")
+	* [FF14UI](suites/ff14/ff14.md "FF14 UI")
 
 * [资源库](publisher/README.md "听风资源库")
     * [视频更新](home/links.md "视频更新")

@@ -12,6 +12,7 @@
 <br/>
 <center>想不想加入到软件项目的每个环节，</center>
 <br/>
+
 <center>体验互联网软件大厂螺丝钉的工作内容？</center>
 <br/>
 <center>为了让不会写代码的人也能参与到winda制作中</center><br/>

@@ -2,12 +2,20 @@
 
 ## PLUS v1.0.2
 
-> 
+> 待定
 
 1. 插件更新：`Questie`任务插件、`Postal`邮箱、`Details`、`DBM`；
 2. 删除与`UnitGetTotalAbsorbs`相关的WA，优化报错；
 3. 修复`BugSack`插件报错声音总是提醒的问题；
 4. 删除FFParty Healer WA（影响队伍显示）
+
+
+
+## 正式服 v2.0.0版本
+
+> 2023.12.23
+
+![QQ截图20231223044435.png](https://s2.loli.net/2023/12/23/mLEfveBiDuY9FGW.png)
 
 ## WLK v1.0.0 版本
 

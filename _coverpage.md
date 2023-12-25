@@ -13,6 +13,7 @@
 [『知乎』](https://www.zhihu.com/people/uwuneng)
 [『抖音』](https://www.douyin.com/user/MS4wLjABAAAAWZZwAj3K-Moaee9AAFuYqi6CRWfC29At1CHheP3ubYgxh3ceYT88_oFgwaTPW9su)
 [『头条』](https://www.toutiao.com/c/user/token/MS4wLjABAAAA4zplmobzTGF2I3-eRVcwWEA4kMdbfDzOlkZpvhphOzw)
+[『知识星球』](https://wx.zsxq.com/dweb2/index/group/28855118214111)
 [『WC游戏社区』](https://kook.top/EGosAW)
 
 <!-- [『Get Started』](#docsify) -->

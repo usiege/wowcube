@@ -2,12 +2,23 @@
 
 ## PLUS v1.0.2
 
-> 待定
+> 2023.12.27
 
 1. 插件更新：`Questie`任务插件、`Postal`邮箱、`Details`、`DBM`；
-2. 删除与`UnitGetTotalAbsorbs`相关的WA，优化报错；
-3. 修复`BugSack`插件报错声音总是提醒的问题；
-4. 删除FFParty Healer WA（影响队伍显示）
+
+   - 新增FF14风格的姓名版（插件Plater）；
+
+   ![QQ截图20231227070318.png](https://s2.loli.net/2023/12/27/ND2cugfhRq3Fd58.png)
+
+   - 新增远程查看天赋插件`alaTalentEmu`；
+
+   ![QQ截图20231227070539.png](https://s2.loli.net/2023/12/27/5AkoJrDpGEI6huR.png)
+
+3. 删除与`UnitGetTotalAbsorbs`相关的WA，优化报错；
+4. 修复`BugSack`插件报错声音总是提醒的问题；
+5. 删除FFParty Healer WA（影响队伍显示）
+
+
 
 ## 正式服 v2.0.1修复
 
@@ -15,8 +26,6 @@
 
 1. 修复了右键目标报错的bug；
 2. 删除了TidyPlate目标美化插件（现无作用）；
-
-
 
 
 

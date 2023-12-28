@@ -18,3 +18,4 @@
 
 [【听风】国服未回归一年之际，不会真的有人在巨龙时代玩守望先锋吧？](https://www.bilibili.com/video/BV1Ac411y7x6)
 
+[【听风】听说你们都在玩赛季服，我把守望先锋也给你们带来了](https://www.bilibili.com/video/BV1we41167xh)

@@ -43,7 +43,7 @@
 
 > 2023.12.20
 
- [FF14 1.0 WLK版本发布](http://wowcube.site/#/suites/ff14-wlk)
+ [FF14 1.0 WLK版本发布](https://charlesblog.site/wowcube/#/suites/ff14-wlk)
 
 ![QQ截图20231220010016.png](https://s2.loli.net/2023/12/20/Sa72y5GNceMQ6Fl.png)
 

@@ -13,7 +13,7 @@
 
 ## 更新日志
 
-[更新至v1.0版本（2023.12.20）](http://wowcube.site/#/suites/ff14/ff14-update)
+[更新至v1.0版本（2023.12.20）](https://charlesblog.site/wowcube/#/suites/ff14/ff14-update)
 
 ## 发布说明
 

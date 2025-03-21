@@ -8,7 +8,7 @@
 
 ## 更新日志
 
-[更新至v1.0版本（2023.12.27）](http://wowcube.site/#/suites/overwatch/ow-update)
+[更新至v1.0版本（2023.12.27）](https://charlesblog.site/wowcube/#/suites/overwatch/ow-update)
 
 ## 插件包简介
 
